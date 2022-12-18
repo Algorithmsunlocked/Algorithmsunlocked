@@ -26,7 +26,7 @@ To get started, simply clone or download the repository and start exploring the 
 
 ##Contributing
 
-We welcome contributions from anyone interested in helping improve Algorithms_unlocked. If you'd like to contribute, please check out our [Contributing Guidelines](https://github.com/Algorithms-Unlocked/algorithms_unlocked/blob/master/CONTRIBUTING.md).
+We welcome contributions from anyone interested in helping improve Algorithms_unlocked. If you'd like to contribute, please check out our [Contributing Guidelines]( https://github.com/Algorithmsunlocked ).
 
 ##License
 
