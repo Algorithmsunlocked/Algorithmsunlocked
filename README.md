@@ -1,7 +1,6 @@
 # Algorithms Unlocked: Ethical Hacker and Cyber Security Brand
 
 ![Algorithms Unlocked Logo]
-)
 
 Welcome to the **Algorithms Unlocked** GitHub repository! We are a brand dedicated to ethical hacking and cybersecurity education. Our goal is to provide valuable resources, tools, and insights for aspiring ethical hackers, cybersecurity professionals, and anyone interested in the world of digital security. 
 
